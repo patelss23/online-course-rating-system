@@ -1,1 +1,5 @@
 online course rating system
+
+
+INSTALLATION:
+python 2.6,mysql 5,django 1.3
